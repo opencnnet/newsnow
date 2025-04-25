@@ -6,3 +6,8 @@ compatibility_date = "2024-10-03"
 binding = "NEWSNOW_DB"
 database_name = "newsnow-db"
 database_id = "b9156f66-e8b9-4882-b2ae-29be36a6779b"
+
+[vars]
+G_CLIENT_ID="Ov23liU7ZHlof5RcW5FE"
+G_CLIENT_SECRET="6121f520c822c0ad27bb928c1f26e8e2d7ee0dd5"
+JWT_SECRET="6121f520c822c0ad27bb928c1f26e8e2d7ee0dd5"
